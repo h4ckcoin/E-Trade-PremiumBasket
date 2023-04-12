@@ -1,0 +1,193 @@
+html {
+}
+.nav-bg {
+    background: #070d29 !important;
+}
+.product-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+
+.category-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+
+    .category-div table td {
+        color: white !important;
+    }
+
+    .category-div table th {
+        color: white  !important;
+    }
+.cart-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+
+    .cart-div table td {
+        color: white !important;
+    }
+
+    .cart-div table th {
+        color: white !important;
+    }
+
+.product-div table td {
+    color: black !important;
+}
+
+.product-div label {
+    color: white !important;
+}
+
+.product-div #datatable_info {
+    color: white !important;
+}
+
+.product-div #datatable_next {
+    color: white !important;
+}
+
+.product-div #datatable_previous {
+    color: white !important;
+}
+
+.register-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+.login-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+.stores-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+
+.stores-div table td {
+    color: white !important;
+}
+
+.stores-div table th {
+    color: white !important;
+}
+.report-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+
+    .report-div table td {
+        color: white !important;
+    }
+
+    .report-div table th {
+        color: white !important;
+    }
+main {
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px;
+    }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+nav {
+    height: 4rem !important;
+    padding: 2rem !important;
+    padding-top: 1rem !important;
+}
+
+html {
+    position: relative;
+    min-height: 100%;
+}
+
+body {
+}
+
+.errorred {
+    color: red;
+}
+
+div.background {
+    background-image: url('/css/Home (1).png');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
