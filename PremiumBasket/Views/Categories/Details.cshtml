@@ -11,8 +11,16 @@
     <partial name="_Details" model="Model" />
 
     <div>
-        <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>&nbsp;|&nbsp;
-        <a asp-action="Index">Back to Category List</a>
+        @if (User.IsInRole("Admin"))
+        {
+            <a asp-action="Edit" asp-route-id="@Model?.Id">Edit</a>  <text>&nbsp;|&nbsp;</text>
+            <a asp-action="Index">Back to List</a>
+            @*<a asp-action="Edit" asp-route-id="@product.Id">Edit</a>*@
+        }
+        @if (User.IsInRole("User"))
+        {
+            <a asp-action="Index">Back to List</a>
+        }
     </div>
 </div>
 
