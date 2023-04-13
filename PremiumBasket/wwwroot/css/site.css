@@ -1,8 +1,10 @@
 html {
 }
+
 .nav-bg {
     background: #070d29 !important;
 }
+
 .product-div {
     padding: 4rem !important;
     background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
@@ -36,8 +38,9 @@ html {
     }
 
     .category-div table th {
-        color: white  !important;
+        color: white !important;
     }
+
 .cart-div {
     padding: 4rem !important;
     background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
@@ -93,6 +96,7 @@ html {
     background-size: cover;
     color: white !important;
 }
+
 .login-div {
     padding: 4rem !important;
     background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
@@ -106,6 +110,7 @@ html {
     background-size: cover;
     color: white !important;
 }
+
 .stores-div {
     padding: 4rem !important;
     background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
@@ -120,13 +125,14 @@ html {
     color: white !important;
 }
 
-.stores-div table td {
-    color: white !important;
-}
+    .stores-div table td {
+        color: white !important;
+    }
 
-.stores-div table th {
-    color: white !important;
-}
+    .stores-div table th {
+        color: white !important;
+    }
+
 .report-div {
     padding: 4rem !important;
     background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
@@ -141,13 +147,164 @@ html {
     color: white !important;
 }
 
-    .report-div table td {
-        color: white !important;
-    }
+.product-details {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
 
-    .report-div table th {
-        color: white !important;
-    }
+.category-details {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+
+.prductsadmin-details {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+    padding-top: 0px !important;
+}
+
+
+.categoryadmin-edit {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+.createadmin-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+    padding-top: 0px !important;
+}
+
+.deleteadmin-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+.createcategoryadmin-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+.storecreate-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+.storeedit-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+.storedelete-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+.storedetails-div {
+    padding: 4rem !important;
+    background-image: url('New Products and Services Business Website in Bright Green Black 2D Illustration Style.jpg');
+    width: 100% !important;
+    height: 92.3vh !important;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding: 9rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white !important;
+}
+.report-div table td {
+    color: white !important;
+}
+
+.report-div table th {
+    color: white !important;
+}
+
 main {
 }
 
@@ -190,4 +347,3 @@ div.background {
     background-repeat: no-repeat;
     background-size: cover;
 }
-
